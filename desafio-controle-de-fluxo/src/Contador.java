@@ -14,6 +14,8 @@ public class Contador {
            System.err.println("O segundo parametro deve ser maior que o primeiro");
         }
 
+        terminal.close();
+
     }
 
 
@@ -28,5 +30,7 @@ public class Contador {
             System.out.println("Imprimindo o número " +i);
 
         }
+
     }
-}
+
+}       

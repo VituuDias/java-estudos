@@ -25,3 +25,4 @@ replay_pid*
 basico/.vscode/settings.json
 **/settings.json
 **/readme.md
+launch.json
